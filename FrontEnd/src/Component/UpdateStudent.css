@@ -1,0 +1,30 @@
+.update-student {
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.update-student form {
+  display: flex;
+  flex-direction: column;
+}
+
+.update-student input {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.update-student button {
+  padding: 10px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.update-student button:hover {
+  background-color: #2980b9;
+}
